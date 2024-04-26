@@ -1,0 +1,25 @@
+# I am an Uninformed developer
+# This is my first project
+# These are the dependencies needed to run my project
+
+
+Django==1.0.0
+newrelic==1.0.0
+nodeenv==1.0.0
+numpy==1.0.0
+oauth2client==1.0.0
+pandas==1.0.0
+Pillow==1.0.0
+redis==1.0.0
+sentry-sdk==1.0.0
+
+# This developer is using outdated dependencies ( all are v1.0.0 )
+# Outdated dependencies pose a security threat since most of the times there are known vulnerabilities.
+
+# Always check the dependency version you are going to use is secure or not.
+
+# A simple google search can answer the question - "dependency" + "version" + vulnerabilities
+# Example - django 1.0.0 vulnerabilities
+
+
+Now go to "/flag10" on CTF site to get your flag!
